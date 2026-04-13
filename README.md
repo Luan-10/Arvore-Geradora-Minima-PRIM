@@ -1,2 +1,2 @@
-# Arvore-Geradora-Minima---PRIM
+# Arvore-Geradora-Minima-PRIM
 Árvore Geradora Mínima - PRIM
